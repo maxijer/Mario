@@ -1,5 +1,4 @@
 # Mario
-_Цель: с помощь технологий DEEP-Q NETWORK обучить нейросеть, которая будет проходить первый уровень игры MARIO_
 ![image](https://user-images.githubusercontent.com/66073940/117574587-88432300-b0e6-11eb-9d1c-e4569f32784d.png)
 
 **Задачи:** 
